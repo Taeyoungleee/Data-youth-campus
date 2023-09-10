@@ -9,9 +9,9 @@
 > 아파트 지역, 지번, 아파트 이름, 공간, 거래년월, 거래일자, 실거래 가격, 층수, 건설완료년도등 포함  
 --------------------------------------------------------------------------------------------------------------------------------------------
 ## 분석 방법
-<img width="331" alt="스크린샷 2023-09-10 오후 4 00 59" src="https://github.com/Taeyoungleee/Computer-vision-seminar/assets/113446739/eb48dcea-321c-4fcf-bead-fe36b359a82c">  
+<img width="350" alt="스크린샷 2023-09-10 오후 4 00 59" src="https://github.com/Taeyoungleee/Computer-vision-seminar/assets/113446739/eb48dcea-321c-4fcf-bead-fe36b359a82c">  
 
-<img width="351" alt="스크린샷 2023-09-10 오후 4 01 20" src="https://github.com/Taeyoungleee/Computer-vision-seminar/assets/113446739/4b9aa6eb-159a-4eaf-b132-b207f01fc5dc">  
+<img width="350" alt="스크린샷 2023-09-10 오후 4 01 20" src="https://github.com/Taeyoungleee/Computer-vision-seminar/assets/113446739/4b9aa6eb-159a-4eaf-b132-b207f01fc5dc">  
 
 위와 같이 시각화 진행해보니 주어진 데이터로만 분석하기엔 정보가 부족하다고 판단하여 외부의 다른 데이터 추가  
 + 추가한 데이터  
